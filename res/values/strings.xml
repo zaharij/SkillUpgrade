@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuperheroUpgrade</string>
+    <string-array name="entitieslist">
+        <item>Human</item>
+        <item>Environment</item>
+        <item>Technogen</item>
+    </string-array>
+</resources>
